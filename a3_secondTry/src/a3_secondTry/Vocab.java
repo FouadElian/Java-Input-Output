@@ -1,9 +1,5 @@
 package a3_secondTry;
 
-//-----------------------------------
-// Assignment 3
-// Written by: Fouad Elian 40273045
-//-----------------------------------
 
 
 import java.util.ArrayList;
